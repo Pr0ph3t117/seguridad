@@ -1,0 +1,37 @@
+body
+{
+	font-family:Arial;
+	font-size:15px;
+	line-height:3em;
+	background-color:#4800A4;
+}
+fieldset
+{
+	background-color:#432162;
+	padding:1em;
+	margin:4em;
+	color:#C371F5;
+	border-color:#7F79F9;
+}
+legend
+{
+	font-size: 20px;
+	color:#C371F5;
+}
+label
+{
+	color:cyan;
+}
+input
+{
+	display:block;
+}
+input:focus
+{
+	border: 2px solid #000; 
+	background: #F3F3F3;
+}
+.diferente
+{
+	display:inline;
+}
